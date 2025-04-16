@@ -12,8 +12,8 @@
 ## Tópicos
 ### Crime Militar
 ofensa grave superior a uma [[transgressão disciplinar]].
-- Crime Propriamente Militar: “possuem previsão única e tão somente no Código Penal Militar, sem correspondência em qualquer outra lei, particularmente no Código Penal, destinado à sociedade civil. Além disso, somente podem ser cometidos por militares – jamais por civis (grifo nosso)”. Nucci (2019, p. 33)
-- Crime Impropriamente Militar: “denominam-se crimes militares impróprios os que possuem dupla previsão, vale dizer, tanto no Código Penal Militar quanto no Código Penal comum, ou legislação similar, com ou sem divergência de definição. Ou também o delito previsto somente na legislação militar que pode ter o civil por sujeito ativo (grifo nosso)”.
+- **Crime Propriamente Militar**: “possuem previsão única e tão somente no Código Penal Militar, sem correspondência em qualquer outra lei, particularmente no Código Penal, destinado à sociedade civil. Além disso, somente podem ser cometidos por militares – jamais por civis (grifo nosso)”. Nucci (2019, p. 33)
+- **Crime Impropriamente Militar**: “denominam-se crimes militares impróprios os que possuem dupla previsão, vale dizer, tanto no Código Penal Militar quanto no Código Penal comum, ou legislação similar, com ou sem divergência de definição. Ou também o delito previsto somente na legislação militar que pode ter o civil por sujeito ativo (grifo nosso)”.
 
 ### Princípio da Legalidade ou da Reserva Legal.
 > Art. 1º Não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal. 
@@ -29,8 +29,8 @@ Greco (2016, p.144) diz que somente a lei é a fonte do DP. Suas quatro funçõe
 Circunstâncias de Crimes militares em tempos de paz (17).
 #### Justiça
 ##### Processo e Julgamento
-- JMU -> Crime militares [art 124 CF]
-- JME -> militares estaduais [§4º, do art. 125 CF]. 
+- JMU -> Crime militares [art 124 CF](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm#:~:text=Art.%20124.%20%C3%80,da%20Justi%C3%A7a%20Militar.)
+- JME -> militares estaduais [§4º, do art. 125 CF](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm#:~:text=Art.%20124.%20%C3%80,da%20Justi%C3%A7a%20Militar.)
 
 ##### Órgãos da JMU
 1. Superior Tribunal Militar;

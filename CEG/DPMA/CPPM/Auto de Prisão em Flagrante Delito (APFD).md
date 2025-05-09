@@ -7,6 +7,7 @@
 	2. Ordem judicial;
 	3. Transgressão disciplinar;
 	4. Crime militar próprio;
+
 ## Conceito
 **Flagrante delito**: Fato criminoso observado.
 **APFD**: "**procedimento administrativo** de polícia judiciária militar, de caráter **preventivo** e **cautelar**, visando ao sucesso da persecução criminal (investigação criminal +  Processo penal)".

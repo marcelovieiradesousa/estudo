@@ -55,4 +55,4 @@ Testemunhas (verdade) -> Vítima -> Indiciado
 ⚠️ Mesmo que não haja crime ou transgressão, a autoridade que determinou a instauração do IPM **não** poderá determinar o arquivamento, deverá encaminhar os autos à CJM. Apenas o juiz poderá determinar o arquivamento, mediante pedido do MPM. [art. 24 CPPM]
 
 ## Instauração de Novo Inquérito [art. 25 CPPM]
-Se provas novas, poderá ser aberto novo IPM, exceto em **caso julgado** e ou **extinção de punibilidade**.
+Se provas novas, poderá ser aberto novo IPM, **exceto** em **caso julgado** e ou **extinção de punibilidade**.

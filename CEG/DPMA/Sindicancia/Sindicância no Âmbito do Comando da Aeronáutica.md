@@ -1,4 +1,4 @@
-## Conceito
+	## Conceito
 **Sindicância**: procedimento formal que tem por objetivo a apuração de **ocorrências**.
 **Ocorrências**: é a suposta irregularidade verificada no âmbito da jurisdição da organização militar, que envolva bem ou agente da Adm pública, a ser levada ao conhecimento da autoridade competente.
 **Ações**: atos como oitiva de testemunhas, acareações, expedições de documentos, consulta a peritos, oitiva do sindicado, etc.

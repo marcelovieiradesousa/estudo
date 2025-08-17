@@ -35,10 +35,8 @@ Militar da Res, Refor ou Civ contra instituições militares nos seguintes casos
 ### ⚠️ Observações
 
 **Crime impróprio por ser praticado por Civil ou Mil** (Não tem em outra legis)
->há aqueles crimes que possuem uma definição diferente no Código
-Penal Militar em relação à legislação penal comum, mas são considerados crimes militares
-impróprios por serem praticados por civis ou por militares. 
-Ex: uso indevido de uniforme militar (art. 172, do CPM) [militar ou civil] e criação de incapacidade física (art. 184, do CPM) [civil]
+>há aqueles crimes que possuem uma definição diferente no Código Penal Militar em relação à legislação penal comum, mas são considerados crimes militares impróprios por serem praticados por civis ou por militares. 
+ Ex: uso indevido de uniforme militar (art. 172, do CPM) [militar ou civil] e criação de incapacidade física (art. 184, do CPM) [civil]
 
 **Jurisprudência STF (Mil x Mil)**
 Compete a Justiça Militar desde que estejam em Sv e em local suj. a adm mil.

@@ -6,11 +6,19 @@ Refere-se a Thiago irmão de Jesus (livro 20).
 
 ## Tácito
 
+```ad-Ingredientes
+collapse: open
+
+- TOMATE
+- LULA
+- ETC
+- ALAS
+```
 
 ```handwritten-ink
 {
 	"versionAtEmbed": "0.3.4",
-	"filepath": "Ink/Writing/2025.9.3 - 16.07pm.writing"
+	"filepath": "raiz/Ink/Writing/2025.9.3 - 16.07pm.writing"
 }
 ```
 

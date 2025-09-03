@@ -1,11 +1,11 @@
 ## Flávio Josefo
 - Historiador judeu, fariseu que sobreviveu a destruição de jerusalém;
 - Obra: antiguidade judaica;
-Descreve Jesus como homem sábio que foi crucificado por Poncio Pilatos (livro 18).
+Descreve Jesus como homem sábio que foi crucificado por Pôncio Pilatos (livro 18).
 Refere-se a Thiago irmão de Jesus (livro 20).
 
 ## Tácito
-Teste.
+amem Deus é bom o tempo todo. God is good and awsome 
 
 ## Suetônio
 

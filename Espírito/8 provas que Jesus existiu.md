@@ -5,7 +5,15 @@ Descreve Jesus como homem sábio que foi crucificado por Pôncio Pilatos (livro 
 Refere-se a Thiago irmão de Jesus (livro 20).
 
 ## Tácito
-amem Deus é bom o tempo todo. God is good and awsome 
+
+
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Writing/2025.9.3 - 16.07pm.writing"
+}
+```
+
 
 ## Suetônio
 

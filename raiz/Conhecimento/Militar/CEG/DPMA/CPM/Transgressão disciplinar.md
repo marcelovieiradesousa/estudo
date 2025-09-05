@@ -1,0 +1,1 @@
+violação de um dever, de um princípio ético ou de uma norma (lei, regulamento ou ordem) que rege uma determinada profissão ou instituição, especialmente as militares e policiais. Essas ações ou omissões, quando não configuram crimes, são passíveis de punição disciplinar, que pode variar de acordo com a gravidade da infração, sendo classificadas como leves, médias ou graves.

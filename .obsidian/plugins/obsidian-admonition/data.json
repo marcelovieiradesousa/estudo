@@ -1,5 +1,19 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "Ingredientes": {
+      "type": "Ingredientes",
+      "color": "214, 96, 0",
+      "icon": {
+        "name": "pizza-slice",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Ingredientes",
+      "injectColor": true,
+      "noTitle": true,
+      "copy": true
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "10.3.2",
@@ -15,10 +29,13 @@
     "other": true,
     "advanced": false
   },
-  "icons": [],
+  "icons": [
+    "octicons",
+    "rpg"
+  ],
   "useFontAwesome": true,
   "rpgDownloadedOnce": false,
   "msDocConverted": false,
   "useSnippet": false,
-  "snippetPath": "custom-admonitions.7a9cf3"
+  "snippetPath": "custom-admonitions.475dd5"
 }

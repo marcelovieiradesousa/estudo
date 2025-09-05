@@ -1,11 +1,16 @@
 [
   "obsidian-git",
-  "table-editor-obsidian",
-  "highlightr-plugin",
   "make-md",
-  "number-headings-obsidian",
-  "automatic-table-of-contents",
+  "obsidian-emoji-toolbar",
   "obsidian-smart-typography",
+  "table-editor-obsidian",
+  "obsidian-admonition",
+  "automatic-table-of-contents",
+  "highlightr-plugin",
+  "number-headings-obsidian",
+  "ink",
   "obsidian-excalidraw-plugin",
-  "obsidian-admonition"
+  "obsidian-book-search-plugin",
+  "dataview",
+  "calendar"
 ]

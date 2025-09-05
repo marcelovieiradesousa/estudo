@@ -11,12 +11,14 @@
             "id": "7abf34d01337c300",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "raiz"
+                "file": "raiz/Espírito/8 provas que Jesus existiu.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "raiz"
+              "title": "8 provas que Jesus existiu"
             }
           }
         ]
@@ -73,7 +75,7 @@
             }
           },
           {
-            "id": "1a189b511ac0bcbe",
+            "id": "621ca4e20f16705d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -201,9 +203,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "41e6b4ff0d6fa80b",
+  "active": "7abf34d01337c300",
   "lastOpenFiles": [
     "raiz/raiz.md",
+    "Tags",
     "Fonts/StoryScript-Regular.ttf",
     "Fonts/KaushanScript-Regular.ttf",
     "Fonts/GoogleSansCode-VariableFont_wght.ttf",
@@ -216,7 +219,6 @@
     "raiz/README.md",
     "raiz/Ink/Writing/2025.9.3 - 16.07pm.writing",
     "raiz/Ink/Writing/2025.9.3 - 15.51pm.writing",
-    "raiz/Ink/Drawing/2025.9.3 - 15.51pm.drawing",
     "raiz/Ink/Ink.md",
     "raiz/Excalidraw/Modelagem de Processos Usando Excalidraw.excalidraw.md",
     "raiz/Excalidraw/Excalidraw.md",

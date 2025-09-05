@@ -43,7 +43,6 @@
     "//Ink/Ink/Drawing",
     "//Ink/Ink/Writing",
     "//Excalidraw",
-    "//raiz",
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Intrapessoal/raiz/Conhecimento/Intrapessoal/Daily",
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Militar/raiz/Conhecimento/Militar/CEG",
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Militar/raiz/Conhecimento/Militar/CEG/raiz/Conhecimento/Militar/CEG/DPMA",
@@ -56,7 +55,9 @@
     "//Conhecimento/Conhecimento/Militar/Conhecimento/Militar/CEG/Conhecimento/Militar/CEG/DPMA",
     "//Conhecimento/Conhecimento/Militar/Conhecimento/Militar/CEG/Conhecimento/Militar/CEG/DPMA/Conhecimento/Militar/CEG/DPMA/CPM",
     "//Espírito",
-    "//raiz/raiz/Conhecimento"
+    "//raiz/raiz/Conhecimento",
+    "//Tags",
+    "//raiz"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

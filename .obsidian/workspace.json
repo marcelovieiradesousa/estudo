@@ -11,14 +11,12 @@
             "id": "7abf34d01337c300",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "raiz/README.md",
-                "mode": "source",
-                "source": false
+                "path": "raiz"
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "raiz"
             }
           }
         ]
@@ -75,7 +73,7 @@
             }
           },
           {
-            "id": "05b529f1e128d49b",
+            "id": "1a189b511ac0bcbe",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -203,25 +201,28 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7abf34d01337c300",
+  "active": "41e6b4ff0d6fa80b",
   "lastOpenFiles": [
-    "raiz/README.md",
     "raiz/raiz.md",
+    "Fonts/StoryScript-Regular.ttf",
+    "Fonts/KaushanScript-Regular.ttf",
+    "Fonts/GoogleSansCode-VariableFont_wght.ttf",
+    "Fonts/Fonts.md",
+    "Fonts/DancingScript-VariableFont_wght.ttf",
+    "Fonts/Creepster-Regular.ttf",
+    "Fonts/Asimovian-Regular.ttf",
+    "Fonts",
+    "README.md",
+    "raiz/README.md",
     "raiz/Ink/Writing/2025.9.3 - 16.07pm.writing",
     "raiz/Ink/Writing/2025.9.3 - 15.51pm.writing",
     "raiz/Ink/Drawing/2025.9.3 - 15.51pm.drawing",
-    "raiz/Ink/Drawing/2025.9.3 - 15.49pm.drawing",
-    "raiz/Ink/Writing",
     "raiz/Ink/Ink.md",
-    "raiz/Ink/Drawing",
-    "raiz/Ink",
     "raiz/Excalidraw/Modelagem de Processos Usando Excalidraw.excalidraw.md",
     "raiz/Excalidraw/Excalidraw.md",
     "raiz/Excalidraw/Drawing 2025-09-03 16.03.40.excalidraw.md",
-    "raiz/Excalidraw",
     "raiz/Espírito/Espírito.md",
     "raiz/Espírito/8 provas que Jesus existiu.md",
-    "raiz/Espírito",
     "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Polícia Judiciária.md",
     "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Introdução ao Inquérito Policial Militar.md",
     "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Instrução Provisória de Deserção.md",
@@ -237,10 +238,6 @@
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Avaliação Documental.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Arquivo Nacional e Conselho Nacional de Arquivo.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/Principais Documentos Utilizados no Âmbito do COMAER.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/NSCA 10-2.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/Formas de Tratamento.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)",
     "Pasted image 20250903135806.png",
     "raiz/Espírito/canva teste.canvas",
     "Pasted image 20250902230558.png"

@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6165c7bc1802d237",
+        "id": "10475f73669cd201",
         "type": "tabs",
         "children": [
           {
-            "id": "784a6acf1e33dd37",
+            "id": "16c4473fcf5c29e0",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "mk-space",
               "state": {
-                "aFile": ".obsidian/workspace-mobile.json",
-                "bFile": ".obsidian/workspace-mobile.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "path": "Excalidraw"
               },
-              "icon": "git-pull-request",
-              "title": "Diff: workspace-mobile.json"
+              "icon": "lucide-file",
+              "title": "Excalidraw"
             }
           }
         ]
@@ -84,6 +81,16 @@
           "state": {},
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "58bcabf2778d9be7",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
         }
       }
     ],
@@ -156,18 +163,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "784a6acf1e33dd37",
+  "active": "16c4473fcf5c29e0",
   "lastOpenFiles": [
+    "Tags",
+    "Conhecimento/Militar/CEG/DPMA/CPM/Código Penal Militar.md",
+    "transgressão disciplinar.md",
     "Conhecimento/Espírito/8 provas que Jesus existiu.md",
+    "Excalidraw/Excalidraw.md",
+    "null.md",
+    "Excalidraw/Drawing 2025-09-03 15.00.36.excalidraw.md",
+    "Excalidraw",
+    "Conhecimento/Militar/Militar.md",
+    "Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)/SIGADAER.md",
+    "README.md",
     "/Conhecimento/Espírito/8 provas que Jesus existiu.md",
     "/Conhecimento/Espírito",
     "/Conhecimento"

@@ -11,7 +11,7 @@
 
 ## Tópicos
 ### Crime Militar
-ofensa grave superior a uma [[transgressão disciplinar]].
+ofensa grave superior a uma [[Transgressão disciplinar]].
 - **Crime Propriamente Militar**: “possuem previsão única e tão somente no Código Penal Militar, sem correspondência em qualquer outra lei, particularmente no Código Penal, destinado à sociedade civil. Além disso, somente podem ser cometidos por militares – jamais por civis (grifo nosso)”. Nucci (2019, p. 33)
 - **Crime Impropriamente Militar**: “denominam-se crimes militares impróprios os que possuem dupla previsão, vale dizer, tanto no Código Penal Militar quanto no Código Penal comum, ou legislação similar, com ou sem divergência de definição. Ou também o delito previsto somente na legislação militar que pode ter o civil por sujeito ativo (grifo nosso)”.
 

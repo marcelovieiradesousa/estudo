@@ -42,7 +42,6 @@
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Militar/raiz/Conhecimento/Militar/CEG/raiz/Conhecimento/Militar/CEG/GDOC/raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER",
     "//Ink/Ink/Drawing",
     "//Ink/Ink/Writing",
-    "//Excalidraw",
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Intrapessoal/raiz/Conhecimento/Intrapessoal/Daily",
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Militar/raiz/Conhecimento/Militar/CEG",
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Militar/raiz/Conhecimento/Militar/CEG/raiz/Conhecimento/Militar/CEG/DPMA",
@@ -57,7 +56,10 @@
     "//Espírito",
     "//raiz/raiz/Conhecimento",
     "//Tags",
-    "//raiz"
+    "//Anki/Anki/Idiomas",
+    "//Anki/Anki/Idiomas/Anki/Idiomas/ingles",
+    "//raiz",
+    "//raiz/raiz/Ink"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

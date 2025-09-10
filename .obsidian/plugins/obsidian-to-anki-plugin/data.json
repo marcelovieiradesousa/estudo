@@ -1,0 +1,187 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Básico": "((?:[^\\n][\\n]?)+) #flashcard ?\\n*((?:\\n(?:^.{1,3}$|^.{4}(?<!<!--).*))+)",
+      "Básico (cartão invertido opcional)": "",
+      "Básico (digite a resposta)": "",
+      "Básico (e cartão invertido)": "",
+      "Cloze (Hide all)": "",
+      "Image Occlusion Enhanced": "",
+      "Oclusão de Imagem": "",
+      "Omissão de Palavras": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Básico": "Frente",
+      "Básico (cartão invertido opcional)": "Frente",
+      "Básico (digite a resposta)": "Frente",
+      "Básico (e cartão invertido)": "Frente",
+      "Cloze (Hide all)": "Text",
+      "Image Occlusion Enhanced": "ID (hidden)",
+      "Oclusão de Imagem": "Oclusão",
+      "Omissão de Palavras": "Texto"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "raiz": "",
+      "Tags": "",
+      "raiz/Conhecimento": "",
+      "raiz/Espírito": "",
+      "raiz/Excalidraw": "",
+      "raiz/Ink": "",
+      "raiz/Conhecimento/Intrapessoal": "",
+      "raiz/Conhecimento/Militar": "",
+      "raiz/Ink/Drawing": "",
+      "raiz/Ink/Writing": "",
+      "raiz/Conhecimento/Intrapessoal/Daily": "",
+      "raiz/Conhecimento/Militar/CEG": "",
+      "raiz/Conhecimento/Militar/CEG/DPMA": "",
+      "raiz/Conhecimento/Militar/CEG/GDOC": "",
+      "raiz/Conhecimento/Militar/CEG/DPMA/CPM": "",
+      "raiz/Conhecimento/Militar/CEG/DPMA/CPPM": "",
+      "raiz/Conhecimento/Militar/CEG/DPMA/Sindicancia": "",
+      "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER": "",
+      "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER": "",
+      "raiz/Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)": "",
+      "Anki": "",
+      "Anki/Idiomas": "",
+      "Anki/Idiomas/ingles": "Idiomas::ingles"
+    },
+    "FOLDER_TAGS": {
+      "raiz": "",
+      "Tags": "",
+      "raiz/Conhecimento": "",
+      "raiz/Espírito": "",
+      "raiz/Excalidraw": "",
+      "raiz/Ink": "",
+      "raiz/Conhecimento/Intrapessoal": "",
+      "raiz/Conhecimento/Militar": "",
+      "raiz/Ink/Drawing": "",
+      "raiz/Ink/Writing": "",
+      "raiz/Conhecimento/Intrapessoal/Daily": "",
+      "raiz/Conhecimento/Militar/CEG": "",
+      "raiz/Conhecimento/Militar/CEG/DPMA": "",
+      "raiz/Conhecimento/Militar/CEG/GDOC": "",
+      "raiz/Conhecimento/Militar/CEG/DPMA/CPM": "",
+      "raiz/Conhecimento/Militar/CEG/DPMA/CPPM": "",
+      "raiz/Conhecimento/Militar/CEG/DPMA/Sindicancia": "",
+      "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER": "",
+      "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER": "",
+      "raiz/Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)": "",
+      "Anki": "",
+      "Anki/Idiomas": "",
+      "Anki/Idiomas/ingles": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Scan Directory": "",
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "",
+      "Scheduling Interval": 0,
+      "Add File Link": true,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    },
+    "IGNORED_FILE_GLOBS": [
+      "**/*.excalidraw.md"
+    ]
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "raiz/raiz.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "raiz/Ink/Ink.md": "7087204b33d569550683df5e3ebe58bc",
+    "raiz/Excalidraw/Excalidraw.md": "6dc6253e9070b44e7694b41dc7be1194",
+    "raiz/Espírito/Espírito.md": "d7dea0eed334f5d77a3a69d15ee061f4",
+    "raiz/Espírito/8 provas que Jesus existiu.md": "675bbc54d62c8bd8f7c867d7446716b9",
+    "raiz/Conhecimento/Militar/Militar.md": "db07eef041e9fb925e087f2cc0227b32",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)/SIGADAER.md": "c3d2151ee82a26ce1e66cd8b8699f03a",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Valor Primário e Valor Secundário.md": "c6469988792461b572ef240d0c4c90c1",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Teoria das Três Idades no Ciclo Vital Documental.md": "c39292e6c3dd0078a95c3edb864c3358",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Processo.md": "6169f0da9e70bf3d394cddc3882d1b65",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Principais Conceitos Arquivísticos.md": "165a91c7c675f4d2b8632f1ca5622a36",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Gestão de Documentos no COMAER.md": "06c8b602166cedcde3219d10246e842c",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Fases da Gestão Documental.md": "d8fea58049603e4cb22cc0a2680d8e57",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Centro de Documentação da Aeronáutica (CENDOC).md": "ae44c848ccb40bdce37c4e12ab61ba77",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Avaliação Documental.md": "8a8baa60747b7738e4b67c35cd258d54",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Arquivo Nacional e Conselho Nacional de Arquivo.md": "abc92dfecb5bcad411d461acd37faab7",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/Principais Documentos Utilizados no Âmbito do COMAER.md": "c2409f28dd5bf4c51b5bee1c5bd0206e",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/NSCA 10-2.md": "bec1a7146549a630cf8a0b948d520edb",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/Formas de Tratamento.md": "10c354c910814854a8b6a4e3128d6368",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/Classificação dos Documentos.md": "7b7b71bf6599eb157bbd2a3040abc654",
+    "raiz/Conhecimento/Militar/CEG/DPMA/Sindicancia/Sindicância no Âmbito do Comando da Aeronáutica.md": "027c3b93e7d20f99897f342d48ef3390",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Polícia Judiciária.md": "2e61670922bae81a4022e5509a0afac6",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Introdução ao Inquérito Policial Militar.md": "049a52f342c27b1ff2adb3812a40c478",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Instrução Provisória de Deserção.md": "e140c0b33a91f16b524d7098ae478d1a",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Auto de Prisão em Flagrante Delito (APFD).md": "0f7d72b59cafacaf19853887c3a9f67d",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPM/Transgressão disciplinar.md": "6ba0cffa528b05c7849a4b0985a0a54b",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPM/Código Penal Militar.md": "07ff2fef2a78408d15c0dd1d65bc605f",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPM/Art. 9 CPM.md": "a61a368400beed921a00c158e35bff97",
+    "raiz/Conhecimento/Militar/CEG/CEG.md": "061c7ce32c32b4c4d1894d8995d872e7",
+    "raiz/Conhecimento/Intrapessoal/Intrapessoal.md": "56fbbf36808f3f81e76660b5e4ca44af",
+    "raiz/Conhecimento/Intrapessoal/Daily/03-09-2025.md": "890e4fad4807c8e018e3b52c3f22e505",
+    "raiz/Conhecimento/Conhecimento.md": "c3383a22e1c3b2538f41685dd4c0b7a8",
+    "README.md": "f37235ebf15a66928d3ba99d0c8705f3",
+    "Anki/Idiomas/ingles/title-test.md": "ec2a0820d21ef97d3423a56846b31a62",
+    "Anki/Idiomas/ingles/test.md": "b05c858ec25bc2cda7858b984c221b27"
+  },
+  "fields_dict": {
+    "Básico": [
+      "Frente",
+      "Verso"
+    ],
+    "Básico (cartão invertido opcional)": [
+      "Frente",
+      "Verso",
+      "Adicionar Invertido"
+    ],
+    "Básico (digite a resposta)": [
+      "Frente",
+      "Verso"
+    ],
+    "Básico (e cartão invertido)": [
+      "Frente",
+      "Verso"
+    ],
+    "Cloze (Hide all)": [
+      "Text",
+      "Extra",
+      "Hide others on the back side"
+    ],
+    "Image Occlusion Enhanced": [
+      "ID (hidden)",
+      "Header",
+      "Image",
+      "Question Mask",
+      "Footer",
+      "Remarks",
+      "Sources",
+      "Extra 1",
+      "Extra 2",
+      "Answer Mask",
+      "Original Mask"
+    ],
+    "Oclusão de Imagem": [
+      "Oclusão",
+      "Imagem",
+      "Cabeçalho",
+      "Verso Extra",
+      "Comentário"
+    ],
+    "Omissão de Palavras": [
+      "Texto",
+      "Verso Extra"
+    ]
+  }
+}

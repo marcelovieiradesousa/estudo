@@ -33,5 +33,13 @@
       ],
       "key": "/"
     }
+  ],
+  "obsidian-to-anki-plugin:anki-scan-vault": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
   ]
 }

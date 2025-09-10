@@ -42,7 +42,6 @@
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Militar/raiz/Conhecimento/Militar/CEG/raiz/Conhecimento/Militar/CEG/GDOC/raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER",
     "//Ink/Ink/Drawing",
     "//Ink/Ink/Writing",
-    "//raiz/raiz/Conhecimento/raiz/Conhecimento/Intrapessoal/raiz/Conhecimento/Intrapessoal/Daily",
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Militar/raiz/Conhecimento/Militar/CEG",
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Militar/raiz/Conhecimento/Militar/CEG/raiz/Conhecimento/Militar/CEG/DPMA",
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Militar/raiz/Conhecimento/Militar/CEG/raiz/Conhecimento/Militar/CEG/DPMA/raiz/Conhecimento/Militar/CEG/DPMA/CPM",
@@ -55,11 +54,13 @@
     "//Conhecimento/Conhecimento/Militar/Conhecimento/Militar/CEG/Conhecimento/Militar/CEG/DPMA/Conhecimento/Militar/CEG/DPMA/CPM",
     "//Espírito",
     "//raiz/raiz/Conhecimento",
-    "//Tags",
     "//Anki/Anki/Idiomas",
     "//Anki/Anki/Idiomas/Anki/Idiomas/ingles",
+    "//raiz/raiz/Ink",
+    "//Excalidraw",
     "//raiz",
-    "//raiz/raiz/Ink"
+    "//raiz/raiz/Conhecimento/raiz/Conhecimento/Intrapessoal",
+    "//raiz/raiz/Conhecimento/raiz/Conhecimento/Intrapessoal/raiz/Conhecimento/Intrapessoal/Daily"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

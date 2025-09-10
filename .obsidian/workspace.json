@@ -11,12 +11,14 @@
             "id": "bdc9d5ee6a504a4c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "split-diff-view",
               "state": {
-                "path": "Anki"
+                "aFile": ".obsidian/plugins/make-md/Spaces.mdb",
+                "bFile": ".obsidian/plugins/make-md/Spaces.mdb",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Anki"
+              "icon": "diff",
+              "title": "Diff: Spaces.mdb"
             }
           }
         ]
@@ -73,7 +75,7 @@
             }
           },
           {
-            "id": "7c2714b7f645f3c7",
+            "id": "55ca40c6c74b58f7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -204,22 +206,24 @@
   },
   "active": "bdc9d5ee6a504a4c",
   "lastOpenFiles": [
+    "raiz/Conhecimento/Intrapessoal/Daily/03-09-2025.md",
+    "raiz/Conhecimento/Intrapessoal/Intrapessoal.md",
+    "raiz/raiz.md",
+    "Fonts/Fonts.md",
+    "Fonts/Creepster-Regular.ttf",
+    "Fonts/DancingScript-VariableFont_wght.ttf",
+    "Fonts/GoogleSansCode-VariableFont_wght.ttf",
+    "Fonts/StoryScript-Regular.ttf",
+    "Fonts/KaushanScript-Regular.ttf",
+    "Fonts/Asimovian-Regular.ttf",
+    "Fonts",
     "raiz/Ink/Ink.md",
     "Anki/Idiomas/ingles/test.md",
-    "raiz/raiz.md",
     "raiz/Espírito/8 provas que Jesus existiu.md",
     "Anki/Idiomas/ingles",
     "Anki/Idiomas",
     "anki/Untitled.md",
     "Anki",
-    "Tags",
-    "Fonts/StoryScript-Regular.ttf",
-    "Fonts/KaushanScript-Regular.ttf",
-    "Fonts/GoogleSansCode-VariableFont_wght.ttf",
-    "Fonts/Fonts.md",
-    "Fonts/DancingScript-VariableFont_wght.ttf",
-    "Fonts/Creepster-Regular.ttf",
-    "Fonts/Asimovian-Regular.ttf",
     "README.md",
     "raiz/README.md",
     "Excalidraw/Modelagem de Processos Usando Excalidraw.excalidraw.md",
@@ -238,8 +242,6 @@
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Gestão de Documentos no COMAER.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Fases da Gestão Documental.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Centro de Documentação da Aeronáutica (CENDOC).md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Avaliação Documental.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Arquivo Nacional e Conselho Nacional de Arquivo.md",
     "Pasted image 20250903135806.png",
     "raiz/Espírito/canva teste.canvas",
     "Pasted image 20250902230558.png"

@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "6ed4de774caa8b7a",
+    "id": "6be45d5ab758ef3e",
     "type": "split",
     "children": [
       {
-        "id": "5ec86d770f0ce1e0",
+        "id": "744ab50e3133e812",
         "type": "tabs",
         "children": [
           {
-            "id": "bdc9d5ee6a504a4c",
+            "id": "caa1c8eafa02ba8b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/make-md/Spaces.mdb",
-                "bFile": ".obsidian/plugins/make-md/Spaces.mdb",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Spaces.mdb"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1186f9191a656609",
+    "id": "170b16aefa4c5b05",
     "type": "split",
     "children": [
       {
-        "id": "efe56c0bba3d90c7",
+        "id": "3a6dbbee9fe5d668",
         "type": "tabs",
         "children": [
           {
-            "id": "59752eb3a198c503",
+            "id": "c97a39614c7f65c8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +44,12 @@
             }
           },
           {
-            "id": "d4477a5824206dbf",
+            "id": "cc7d4772812b4805",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "95b36f6bc02c52d5",
+            "id": "72bad7f7ea9e864a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,7 +71,7 @@
             }
           },
           {
-            "id": "55ca40c6c74b58f7",
+            "id": "f171dddbc5d3911e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -89,18 +85,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 300
   },
   "right": {
-    "id": "ce19a31c84385eac",
+    "id": "677b387afa306a10",
     "type": "split",
     "children": [
       {
-        "id": "ea2d4ce252fb3be8",
+        "id": "0581d121941763d4",
         "type": "tabs",
         "children": [
           {
-            "id": "e70885e3d10d54e7",
+            "id": "9c4b3132c3b5881a",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -118,7 +114,7 @@
             }
           },
           {
-            "id": "79dc09645ca4e035",
+            "id": "88526a49798e74b4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -131,7 +127,7 @@
             }
           },
           {
-            "id": "2169f263b779f85b",
+            "id": "5f14e416cce3907e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -146,32 +142,21 @@
             }
           },
           {
-            "id": "355abf2f03a145fa",
+            "id": "850c6f50fd7a9167",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "raiz/Conhecimento/Intrapessoal/Daily/04-09-2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04-09-2025"
+              "title": "Outline"
             }
           },
           {
-            "id": "41e6b4ff0d6fa80b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "9e388f829dfeeb16",
+            "id": "dcec871058732ed5",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -179,16 +164,31 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "4eb43b386088e75b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -196,54 +196,46 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "audio-recorder:Start/stop recording": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdc9d5ee6a504a4c",
+  "active": "850c6f50fd7a9167",
   "lastOpenFiles": [
-    "raiz/Conhecimento/Intrapessoal/Daily/03-09-2025.md",
-    "raiz/Conhecimento/Intrapessoal/Intrapessoal.md",
-    "raiz/raiz.md",
-    "Fonts/Fonts.md",
-    "Fonts/Creepster-Regular.ttf",
-    "Fonts/DancingScript-VariableFont_wght.ttf",
-    "Fonts/GoogleSansCode-VariableFont_wght.ttf",
-    "Fonts/StoryScript-Regular.ttf",
-    "Fonts/KaushanScript-Regular.ttf",
-    "Fonts/Asimovian-Regular.ttf",
-    "Fonts",
-    "raiz/Ink/Ink.md",
-    "Anki/Idiomas/ingles/test.md",
-    "raiz/Espírito/8 provas que Jesus existiu.md",
-    "Anki/Idiomas/ingles",
-    "Anki/Idiomas",
-    "anki/Untitled.md",
-    "Anki",
-    "README.md",
-    "raiz/README.md",
-    "Excalidraw/Modelagem de Processos Usando Excalidraw.excalidraw.md",
-    "Excalidraw/Excalidraw.md",
-    "Excalidraw/Drawing 2025-09-03 16.03.40.excalidraw.md",
-    "raiz/Espírito/Espírito.md",
-    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Polícia Judiciária.md",
-    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Introdução ao Inquérito Policial Militar.md",
-    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Instrução Provisória de Deserção.md",
-    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Auto de Prisão em Flagrante Delito (APFD).md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)/SIGADAER.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Valor Primário e Valor Secundário.md",
+    "Tags",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Teoria das Três Idades no Ciclo Vital Documental.md",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Valor Primário e Valor Secundário.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Processo.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Principais Conceitos Arquivísticos.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Gestão de Documentos no COMAER.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Fases da Gestão Documental.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Centro de Documentação da Aeronáutica (CENDOC).md",
-    "Pasted image 20250903135806.png",
-    "raiz/Espírito/canva teste.canvas",
-    "Pasted image 20250902230558.png"
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Avaliação Documental.md",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Arquivo Nacional e Conselho Nacional de Arquivo.md",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)/SIGADAER.md",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/Principais Documentos Utilizados no Âmbito do COMAER.md",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/NSCA 10-2.md",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/Formas de Tratamento.md",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER.md",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/Classificação dos Documentos.md",
+    "raiz/Conhecimento/Militar/CEG/DPMA/Sindicancia/Sindicância no Âmbito do Comando da Aeronáutica.md",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Polícia Judiciária.md",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Introdução ao Inquérito Policial Militar.md",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Instrução Provisória de Deserção.md",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Auto de Prisão em Flagrante Delito (APFD).md",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPM/Transgressão disciplinar.md",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPM/Código Penal Militar.md",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPM/Art. 9 CPM.md",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER",
+    "raiz/Conhecimento/Militar/CEG/DPMA/Sindicancia",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPM",
+    "raiz/Conhecimento/Militar/CEG/GDOC",
+    "raiz/Conhecimento/Militar/CEG/DPMA",
+    "raiz/Conhecimento/Militar/CEG/CEG.md",
+    "raiz/Conhecimento/Intrapessoal/Daily/03-09-2025.md",
+    "raiz/Ink/Writing/2025.9.3 - 16.07pm.writing",
+    "raiz/Ink/Writing/2025.9.3 - 15.51pm.writing"
   ]
 }

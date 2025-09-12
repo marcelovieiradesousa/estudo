@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "744ab50e3133e812",
+        "id": "00fd13ef236071f0",
         "type": "tabs",
         "children": [
           {
-            "id": "caa1c8eafa02ba8b",
+            "id": "51c16ace997382a8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "f171dddbc5d3911e",
+            "id": "8df6008b176e2260",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -80,8 +80,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,8 +198,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "850c6f50fd7a9167",
+  "active": "4eb43b386088e75b",
   "lastOpenFiles": [
+    "Excalidraw/Modelagem de Processos Usando Excalidraw.excalidraw.md",
+    "Excalidraw/Excalidraw.md",
+    "Excalidraw/Drawing 2025-09-12 18.02.29.excalidraw.md",
+    "Ink/Drawing/2025.9.3 - 15.49pm.drawing",
+    "Ink/Drawing/2025.9.3 - 15.51pm.drawing",
+    "Ink/Ink.md",
+    "Ink/Writing",
+    "Ink/Drawing",
+    "Ink",
+    "raiz/Ink/Writing/2025.9.3 - 16.07pm.writing",
+    "Anki/Anki.md",
+    "raiz/Ink/Writing/2025.9.3 - 15.51pm.writing",
+    "raiz/Ink/Drawing/2025.9.3 - 15.49pm.drawing",
+    "raiz/Ink/Ink.md",
+    "Excalidraw/Drawing 2025-09-12 18.00.09.excalidraw.md",
+    "raiz/Excalidraw/Drawing 2025-09-12 17.58.44.excalidraw.md",
+    "raiz/Excalidraw",
     "Tags",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Teoria das Três Idades no Ciclo Vital Documental.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Valor Primário e Valor Secundário.md",
@@ -219,23 +235,6 @@
     "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/Classificação dos Documentos.md",
     "raiz/Conhecimento/Militar/CEG/DPMA/Sindicancia/Sindicância no Âmbito do Comando da Aeronáutica.md",
     "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Polícia Judiciária.md",
-    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Introdução ao Inquérito Policial Militar.md",
-    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Instrução Provisória de Deserção.md",
-    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Auto de Prisão em Flagrante Delito (APFD).md",
-    "raiz/Conhecimento/Militar/CEG/DPMA/CPM/Transgressão disciplinar.md",
-    "raiz/Conhecimento/Militar/CEG/DPMA/CPM/Código Penal Militar.md",
-    "raiz/Conhecimento/Militar/CEG/DPMA/CPM/Art. 9 CPM.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER",
-    "raiz/Conhecimento/Militar/CEG/DPMA/Sindicancia",
-    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM",
-    "raiz/Conhecimento/Militar/CEG/DPMA/CPM",
-    "raiz/Conhecimento/Militar/CEG/GDOC",
-    "raiz/Conhecimento/Militar/CEG/DPMA",
-    "raiz/Conhecimento/Militar/CEG/CEG.md",
-    "raiz/Conhecimento/Intrapessoal/Daily/03-09-2025.md",
-    "raiz/Ink/Writing/2025.9.3 - 16.07pm.writing",
-    "raiz/Ink/Writing/2025.9.3 - 15.51pm.writing"
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Introdução ao Inquérito Policial Militar.md"
   ]
 }

@@ -56,11 +56,11 @@
     "//raiz/raiz/Conhecimento",
     "//Anki/Anki/Idiomas",
     "//Anki/Anki/Idiomas/Anki/Idiomas/ingles",
-    "//raiz/raiz/Ink",
-    "//Excalidraw",
     "//raiz",
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Intrapessoal",
-    "//raiz/raiz/Conhecimento/raiz/Conhecimento/Intrapessoal/raiz/Conhecimento/Intrapessoal/Daily"
+    "//raiz/raiz/Conhecimento/raiz/Conhecimento/Intrapessoal/raiz/Conhecimento/Intrapessoal/Daily",
+    "//raiz/raiz/Excalidraw",
+    "//raiz/raiz/Ink/raiz/Ink/Writing"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -72,6 +72,7 @@
     "_assets",
     "_blocks"
   ],
+  "newFileLocation": "current",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,

@@ -1,4 +1,3 @@
-![[Pasted image 20250511152125.png]]
 3 Fases de vida dos documentos distintas e complementares (**corrente, intermediária e permanente**). Caracterizada pelo **intervalo de tempo** e pelo **tipo de uso**. Frequência de uso e o publico-alvo definem a metodologia utilizada.
 ![[Pasted image 20250512155404.png]]
 

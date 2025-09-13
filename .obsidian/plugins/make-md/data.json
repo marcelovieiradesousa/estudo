@@ -60,7 +60,8 @@
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Intrapessoal",
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Intrapessoal/raiz/Conhecimento/Intrapessoal/Daily",
     "//raiz/raiz/Excalidraw",
-    "//raiz/raiz/Ink/raiz/Ink/Writing"
+    "//raiz/raiz/Ink/raiz/Ink/Writing",
+    "//Anki"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

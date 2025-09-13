@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "00fd13ef236071f0",
+        "id": "33a45b4f3474ef79",
         "type": "tabs",
         "children": [
           {
-            "id": "51c16ace997382a8",
+            "id": "408e83b28128b971",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Anki/Idiomas/ingles/test.md",
+                "bFile": "Anki/Idiomas/ingles/test.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: test"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +75,7 @@
             }
           },
           {
-            "id": "8df6008b176e2260",
+            "id": "5a31ca5d63069a76",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -80,11 +84,12 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 208.5
   },
   "right": {
     "id": "677b387afa306a10",
@@ -100,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Anki/Idiomas/ingles/cards ingles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for cards ingles"
             }
           },
           {
@@ -146,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -179,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,27 +205,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4eb43b386088e75b",
+  "active": "408e83b28128b971",
   "lastOpenFiles": [
+    "raiz/Espírito/8 provas que Jesus existiu.md",
+    "Anki/Idiomas/ingles/cards ingles.md",
+    "Recording 20250913190849.m4a",
+    "Vault.md",
+    "audios records/Recording 20250913190642.m4a",
+    "raiz/Conhecimento/Intrapessoal/Daily/03-09-2025.md",
+    "audios records/Recording 20250913182031.m4a",
+    "audios records/Recording 20250913181528.m4a",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/NSCA 10-2.md",
+    "audios records",
+    "Anki/Anki.md",
+    "Pasted image 20250507154727.png.md",
+    "Pasted image 20250512155404.png.md",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Teoria das Três Idades no Ciclo Vital Documental.md",
+    "Recording 20250913164755.m4a",
+    "Recording 20250913164922.m4a",
+    "Untitled.md",
+    "Untitled.base",
     "Excalidraw/Modelagem de Processos Usando Excalidraw.excalidraw.md",
     "Excalidraw/Excalidraw.md",
     "Excalidraw/Drawing 2025-09-12 18.02.29.excalidraw.md",
     "Ink/Drawing/2025.9.3 - 15.49pm.drawing",
     "Ink/Drawing/2025.9.3 - 15.51pm.drawing",
     "Ink/Ink.md",
-    "Ink/Writing",
-    "Ink/Drawing",
-    "Ink",
-    "raiz/Ink/Writing/2025.9.3 - 16.07pm.writing",
-    "Anki/Anki.md",
-    "raiz/Ink/Writing/2025.9.3 - 15.51pm.writing",
-    "raiz/Ink/Drawing/2025.9.3 - 15.49pm.drawing",
     "raiz/Ink/Ink.md",
     "Excalidraw/Drawing 2025-09-12 18.00.09.excalidraw.md",
     "raiz/Excalidraw/Drawing 2025-09-12 17.58.44.excalidraw.md",
-    "raiz/Excalidraw",
-    "Tags",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Teoria das Três Idades no Ciclo Vital Documental.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Valor Primário e Valor Secundário.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Processo.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Principais Conceitos Arquivísticos.md",
@@ -227,14 +242,6 @@
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Centro de Documentação da Aeronáutica (CENDOC).md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Avaliação Documental.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Arquivo Nacional e Conselho Nacional de Arquivo.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)/SIGADAER.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/Principais Documentos Utilizados no Âmbito do COMAER.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/NSCA 10-2.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/Formas de Tratamento.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/Classificação dos Documentos.md",
-    "raiz/Conhecimento/Militar/CEG/DPMA/Sindicancia/Sindicância no Âmbito do Comando da Aeronáutica.md",
-    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Polícia Judiciária.md",
-    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Introdução ao Inquérito Policial Militar.md"
+    "raiz/Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)/SIGADAER.md"
   ]
 }

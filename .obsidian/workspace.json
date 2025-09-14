@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5ec86d770f0ce1e0",
+        "id": "74ea3b953c251c62",
         "type": "tabs",
         "children": [
           {
-            "id": "bdc9d5ee6a504a4c",
+            "id": "7d0b2ef1dada25ea",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/make-md/Spaces.mdb",
-                "bFile": ".obsidian/plugins/make-md/Spaces.mdb",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Spaces.mdb"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -75,7 +71,7 @@
             }
           },
           {
-            "id": "55ca40c6c74b58f7",
+            "id": "42bf973f410bbe6b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -204,7 +200,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "bdc9d5ee6a504a4c",
+  "active": "41e6b4ff0d6fa80b",
   "lastOpenFiles": [
     "raiz/Conhecimento/Intrapessoal/Daily/03-09-2025.md",
     "raiz/Conhecimento/Intrapessoal/Intrapessoal.md",

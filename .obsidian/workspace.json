@@ -11,10 +11,14 @@
             "id": "7d0b2ef1dada25ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/make-md/data.json",
+                "bFile": ".obsidian/plugins/make-md/data.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ]
@@ -200,7 +204,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "41e6b4ff0d6fa80b",
+  "active": "7d0b2ef1dada25ea",
   "lastOpenFiles": [
     "raiz/Conhecimento/Intrapessoal/Daily/03-09-2025.md",
     "raiz/Conhecimento/Intrapessoal/Intrapessoal.md",

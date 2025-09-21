@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "33a45b4f3474ef79",
+        "id": "055c20a39f4bd64f",
         "type": "tabs",
         "children": [
           {
-            "id": "408e83b28128b971",
+            "id": "f944d6be460438b8",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".makemd/fileCache.mdc",
-                "bFile": ".makemd/fileCache.mdc",
-                "aRef": ""
+                "file": "raiz/Conhecimento/Intrapessoal/Daily/21-09-2025.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: fileCache.mdc"
+              "icon": "lucide-file",
+              "title": "21-09-2025"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "e936431a71fd9f7b",
+            "id": "8c00bc3ffb3bbdca",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "677b387afa306a10",
@@ -186,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,15 +206,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4eb43b386088e75b",
+  "active": "f944d6be460438b8",
   "lastOpenFiles": [
+    "raiz/Conhecimento/Intrapessoal/Daily/03-09-2025.md",
+    "raiz/Conhecimento/Intrapessoal/Daily/21-09-2025.md",
     "conflict-files-obsidian-git.md",
     "raiz/Espírito/8 provas que Jesus existiu.md",
     "Anki/Idiomas/ingles/cards ingles.md",
     "Recording 20250913190849.m4a",
     "Vault.md",
     "audios records/Recording 20250913190642.m4a",
-    "raiz/Conhecimento/Intrapessoal/Daily/03-09-2025.md",
     "audios records/Recording 20250913182031.m4a",
     "audios records/Recording 20250913181528.m4a",
     "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/NSCA 10-2.md",
@@ -241,7 +243,6 @@
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Gestão de Documentos no COMAER.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Fases da Gestão Documental.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Centro de Documentação da Aeronáutica (CENDOC).md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Avaliação Documental.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Arquivo Nacional e Conselho Nacional de Arquivo.md"
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Avaliação Documental.md"
   ]
 }

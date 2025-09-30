@@ -11,14 +11,12 @@
             "id": "7d0b2ef1dada25ea",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "mk-space",
               "state": {
-                "aFile": ".obsidian/plugins/make-md/data.json",
-                "bFile": ".obsidian/plugins/make-md/data.json",
-                "aRef": ""
+                "path": "Ink"
               },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "icon": "lucide-file",
+              "title": "Ink"
             }
           }
         ]
@@ -75,7 +73,7 @@
             }
           },
           {
-            "id": "42bf973f410bbe6b",
+            "id": "166f11044f74f969",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -204,13 +202,23 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "41e6b4ff0d6fa80b",
+  "active": "166f11044f74f969",
   "lastOpenFiles": [
+    "raiz/Conhecimento/Intrapessoal/Daily/Daily.md",
+    "Ink/Ink.md",
+    "raiz/Fitness/Musculação/Musculação.md",
+    "raiz/Fitness/Musculação/Treino Full body.md",
+    "raiz/Fitness/Musculação",
+    "raiz/Fitness/Fitness.md",
+    "raiz/Fitness/Untitled.md",
+    "Ink/Drawing/2025.9.3 - 15.49pm.drawing",
+    "raiz/Fitness",
+    "Anki/Anki.md",
+    "Excalidraw/Modelagem de Processos Usando Excalidraw.excalidraw.md",
+    "raiz/Fitness/Musculação/Treino Full body.md",
     "conflict-files-obsidian-git.md",
     "Vault.md",
     "Ink/Drawing/2025.9.3 - 15.51pm.drawing",
-    "Ink/Drawing/2025.9.3 - 15.49pm.drawing",
-    "Ink/Ink.md",
     "Ink/Drawing",
     "Ink",
     "raiz/Conhecimento/Intrapessoal/Daily/03-09-2025.md",
@@ -221,27 +229,17 @@
     "Fonts/DancingScript-VariableFont_wght.ttf",
     "Fonts/GoogleSansCode-VariableFont_wght.ttf",
     "Fonts/StoryScript-Regular.ttf",
-    "Fonts/KaushanScript-Regular.ttf",
-    "Fonts/Asimovian-Regular.ttf",
     "raiz/Ink/Ink.md",
     "Anki/Idiomas/ingles/test.md",
     "raiz/Espírito/8 provas que Jesus existiu.md",
     "anki/Untitled.md",
     "README.md",
     "raiz/README.md",
-    "Excalidraw/Modelagem de Processos Usando Excalidraw.excalidraw.md",
     "Excalidraw/Excalidraw.md",
     "Excalidraw/Drawing 2025-09-03 16.03.40.excalidraw.md",
     "raiz/Espírito/Espírito.md",
     "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Polícia Judiciária.md",
     "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Introdução ao Inquérito Policial Militar.md",
-    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Instrução Provisória de Deserção.md",
-    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Auto de Prisão em Flagrante Delito (APFD).md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)/SIGADAER.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Valor Primário e Valor Secundário.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Teoria das Três Idades no Ciclo Vital Documental.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Processo.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Principais Conceitos Arquivísticos.md",
     "Pasted image 20250903135806.png",
     "raiz/Espírito/canva teste.canvas",
     "Pasted image 20250902230558.png"

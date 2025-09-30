@@ -40,7 +40,6 @@
   "expandedSpaces": [
     "/",
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Militar/raiz/Conhecimento/Militar/CEG/raiz/Conhecimento/Militar/CEG/GDOC/raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER",
-    "//Ink/Ink/Drawing",
     "//Ink/Ink/Writing",
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Militar/raiz/Conhecimento/Militar/CEG",
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Militar/raiz/Conhecimento/Militar/CEG/raiz/Conhecimento/Militar/CEG/DPMA",
@@ -53,28 +52,28 @@
     "//Conhecimento/Conhecimento/Militar/Conhecimento/Militar/CEG/Conhecimento/Militar/CEG/DPMA",
     "//Conhecimento/Conhecimento/Militar/Conhecimento/Militar/CEG/Conhecimento/Militar/CEG/DPMA/Conhecimento/Militar/CEG/DPMA/CPM",
     "//Espírito",
-    "//raiz/raiz/Conhecimento",
     "//Anki/Anki/Idiomas",
-    "//Anki/Anki/Idiomas/Anki/Idiomas/ingles",
     "//raiz/raiz/Ink",
-    "//Excalidraw",
     "//raiz",
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Intrapessoal",
-    "//raiz/raiz/Conhecimento/raiz/Conhecimento/Intrapessoal/raiz/Conhecimento/Intrapessoal/Daily",
-    "//Anki"
+    "//Anki/Anki/Idiomas/Anki/Idiomas/ingles",
+    "//raiz/raiz/Fitness",
+    "//raiz/raiz/Conhecimento",
+    "//Excalidraw"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
-  "hiddenFiles": [],
+  "hiddenFiles": [
+    "Ink/Drawing/2025.9.3 - 15.49pm.drawing"
+  ],
   "hiddenExtensions": [
     ".mdb",
     "_assets",
     "_blocks"
   ],
-  "newFileLocation": "root",
-  "newFileFolderPath": "",
+  "newFileLocation": "current",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,

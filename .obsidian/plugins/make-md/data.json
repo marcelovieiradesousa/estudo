@@ -54,12 +54,15 @@
     "//Espírito",
     "//Anki/Anki/Idiomas",
     "//raiz/raiz/Ink",
+    "//raiz",
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Intrapessoal",
     "//Anki/Anki/Idiomas/Anki/Idiomas/ingles",
     "//raiz/raiz/Fitness",
     "//raiz/raiz/Conhecimento",
     "//Excalidraw",
-    "//raiz/raiz/Conhecimento/raiz/Conhecimento/Intrapessoal/raiz/Conhecimento/Intrapessoal/Daily"
+    "//raiz/raiz/Conhecimento/raiz/Conhecimento/Intrapessoal/raiz/Conhecimento/Intrapessoal/Daily",
+    "//raiz/raiz/Espírito",
+    "//raiz/raiz/Conhecimento/raiz/Conhecimento/Militar"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

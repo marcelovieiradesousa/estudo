@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "6be45d5ab758ef3e",
+    "id": "6ed4de774caa8b7a",
     "type": "split",
     "children": [
       {
-        "id": "055c20a39f4bd64f",
+        "id": "cb38d895e8ea8999",
         "type": "tabs",
         "children": [
           {
-            "id": "f944d6be460438b8",
+            "id": "4a3140a8990391b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raiz/Conhecimento/Intrapessoal/Daily/21-09-2025.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "21-09-2025"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "170b16aefa4c5b05",
+    "id": "1186f9191a656609",
     "type": "split",
     "children": [
       {
-        "id": "3a6dbbee9fe5d668",
+        "id": "efe56c0bba3d90c7",
         "type": "tabs",
         "children": [
           {
-            "id": "c97a39614c7f65c8",
+            "id": "59752eb3a198c503",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +44,12 @@
             }
           },
           {
-            "id": "cc7d4772812b4805",
+            "id": "d4477a5824206dbf",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "tag:#flashcards",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "72bad7f7ea9e864a",
+            "id": "95b36f6bc02c52d5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,7 +71,7 @@
             }
           },
           {
-            "id": "95de66a72f76075f",
+            "id": "d7ae5dea0959f2a1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -89,23 +85,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 255.5
   },
   "right": {
-    "id": "677b387afa306a10",
+    "id": "ce19a31c84385eac",
     "type": "split",
     "children": [
       {
-        "id": "0581d121941763d4",
+        "id": "ea2d4ce252fb3be8",
         "type": "tabs",
         "children": [
           {
-            "id": "9c4b3132c3b5881a",
+            "id": "e70885e3d10d54e7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki/Idiomas/ingles/cards ingles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,11 +110,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cards ingles"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "88526a49798e74b4",
+            "id": "79dc09645ca4e035",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -132,7 +127,7 @@
             }
           },
           {
-            "id": "5f14e416cce3907e",
+            "id": "2169f263b779f85b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,32 +142,22 @@
             }
           },
           {
-            "id": "850c6f50fd7a9167",
+            "id": "355abf2f03a145fa",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
+                "file": "raiz/Conhecimento/Intrapessoal/Daily/04-09-2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 04-09-2025"
             }
           },
           {
-            "id": "dcec871058732ed5",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "4eb43b386088e75b",
+            "id": "41e6b4ff0d6fa80b",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -180,21 +165,26 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9e388f829dfeeb16",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -202,45 +192,54 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "4eb43b386088e75b",
+  "active": "41e6b4ff0d6fa80b",
   "lastOpenFiles": [
-    "raiz/Fitness/Musculação/Treino Full body.md",
+    "raiz/Conhecimento/Intrapessoal/Daily/03-09-2025.md",
+    "raiz/Conhecimento/Intrapessoal/Daily/21-09-2025.md",
+    "conflict-files-obsidian-git.md",
+    "Ink/Ink.md",
+    "raiz/Conhecimento/Intrapessoal/Daily/Daily.md",
     "raiz/Fitness/Musculação/Musculação.md",
+    "raiz/Fitness/Musculação/Treino Full body.md",
     "raiz/Fitness/Musculação",
     "raiz/Fitness/Fitness.md",
+    "raiz/Fitness/Untitled.md",
+    "Ink/Drawing/2025.9.3 - 15.49pm.drawing",
     "raiz/Fitness",
-    "raiz/Conhecimento/Intrapessoal/Daily/Daily.md",
     "Anki/Anki.md",
     "Excalidraw/Modelagem de Processos Usando Excalidraw.excalidraw.md",
-    "raiz/Conhecimento/Intrapessoal/Daily/21-09-2025.md",
-    "raiz/Conhecimento/Intrapessoal/Daily/03-09-2025.md",
-    "conflict-files-obsidian-git.md",
-    "raiz/Espírito/8 provas que Jesus existiu.md",
-    "Anki/Idiomas/ingles/cards ingles.md",
-    "Recording 20250913190849.m4a",
+    "raiz/Fitness/Musculação/Treino Full body.md",
     "Vault.md",
-    "audios records/Recording 20250913190642.m4a",
-    "audios records/Recording 20250913182031.m4a",
-    "audios records/Recording 20250913181528.m4a",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/NSCA 10-2.md",
-    "audios records",
-    "Pasted image 20250507154727.png.md",
-    "Pasted image 20250512155404.png.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Teoria das Três Idades no Ciclo Vital Documental.md",
-    "Recording 20250913164755.m4a",
-    "Recording 20250913164922.m4a",
-    "Untitled.md",
-    "Untitled.base",
-    "Excalidraw/Excalidraw.md",
-    "Excalidraw/Drawing 2025-09-12 18.02.29.excalidraw.md",
-    "Ink/Ink.md",
+    "Ink/Drawing/2025.9.3 - 15.51pm.drawing",
+    "Ink/Drawing",
+    "Ink",
+    "raiz/Conhecimento/Intrapessoal/Intrapessoal.md",
+    "raiz/raiz.md",
+    "Fonts/Fonts.md",
+    "Fonts/Creepster-Regular.ttf",
+    "Fonts/DancingScript-VariableFont_wght.ttf",
+    "Fonts/GoogleSansCode-VariableFont_wght.ttf",
+    "Fonts/StoryScript-Regular.ttf",
     "raiz/Ink/Ink.md",
-    "Excalidraw/Drawing 2025-09-12 18.00.09.excalidraw.md",
-    "raiz/Excalidraw/Drawing 2025-09-12 17.58.44.excalidraw.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Valor Primário e Valor Secundário.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Processo.md"
+    "Anki/Idiomas/ingles/test.md",
+    "raiz/Espírito/8 provas que Jesus existiu.md",
+    "anki/Untitled.md",
+    "README.md",
+    "raiz/README.md",
+    "Excalidraw/Excalidraw.md",
+    "Excalidraw/Drawing 2025-09-03 16.03.40.excalidraw.md",
+    "raiz/Espírito/Espírito.md",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM/Polícia Judiciária.md",
+    "Pasted image 20250903135806.png",
+    "raiz/Espírito/canva teste.canvas",
+    "Pasted image 20250902230558.png"
   ]
 }

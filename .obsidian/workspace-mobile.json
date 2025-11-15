@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "fab2ccb431074ea6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e72e2c2ed025d862",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "452a2fdb98621390",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "616c8f1b3d443676",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "48b82c21463f66d6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de arquivos"
+        }
+      },
+      {
+        "id": "9432dd0f882b1b8a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Procurar"
+        }
+      },
+      {
+        "id": "3993fa6af37341c1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "5d04f71fb86d5f9b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      },
+      {
+        "id": "f8d4e9ef3f7f92bc",
+        "type": "leaf",
+        "state": {
+          "type": "mk-space",
+          "state": {
+            "path": "raiz/Conhecimento/Militar/CEG/DPMA/CPM"
+          },
+          "icon": "lucide-file",
+          "title": "CPM"
+        }
+      },
+      {
+        "id": "6bba85280b0386f9",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
+        }
+      },
+      {
+        "id": "246bfaf078b665ac",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
+        }
+      }
+    ],
+    "currentTab": 6
+  },
+  "right": {
+    "id": "a9da53f8be6fcd20",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8bed3316c4ce56e7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "80ca12078136b5b4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "e28bcfab05c05655",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "79f6ca27f0b6f955",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "f8170c144878aa12",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      },
+      {
+        "id": "9ee12cbd5cad29b7",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {},
+          "icon": "spreadsheet",
+          "title": "Advanced Tables"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "452a2fdb98621390",
+  "lastOpenFiles": [
+    "raiz/Conhecimento/Intrapessoal/Daily/03-09-2025.md",
+    "raiz/Conhecimento/Intrapessoal/Daily/21-09-2025.md",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPM/Art. 9 CPM.md",
+    "Vault.md",
+    "Teste.canvas",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPM/Código Penal Militar.md",
+    "Excalidraw/Drawing 2025-11-05 19.27.43.excalidraw.md",
+    "Anki/Idiomas/ingles/cards ingles.md",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPM/Sem título.md",
+    "raiz/Conhecimento/Militar/CEG/CEG.md",
+    "raiz/Conhecimento/Militar/Militar.md",
+    "raiz/Conhecimento/Conhecimento.md",
+    "Excalidraw/Excalidraw.md",
+    "raiz/raiz.md",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER.md",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/NSCA 10-2.md",
+    "raiz/Espírito/8 provas que Jesus existiu.md",
+    "raiz/Conhecimento/Intrapessoal/Intrapessoal.md",
+    "Tags",
+    "raiz/Fitness/Musculação/Treino Full body.md",
+    "raiz/Fitness/Musculação/Musculação.md",
+    "raiz/Fitness/Fitness.md",
+    "raiz/Espírito/Espírito.md",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)/SIGADAER.md",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Valor Primário e Valor Secundário.md",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Teoria das Três Idades no Ciclo Vital Documental.md",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Processo.md",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Principais Conceitos Arquivísticos.md",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER",
+    "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER",
+    "raiz/Conhecimento/Militar/CEG/DPMA/Sindicancia",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPPM",
+    "raiz/Conhecimento/Militar/CEG/DPMA/CPM",
+    "raiz/Conhecimento/Militar/CEG/GDOC",
+    "raiz/Conhecimento/Militar/CEG/DPMA",
+    "raiz/Conhecimento/Militar/CEG"
+  ]
+}

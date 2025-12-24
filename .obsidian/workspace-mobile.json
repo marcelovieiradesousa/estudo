@@ -11,10 +11,14 @@
             "id": "452a2fdb98621390",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "raiz/IA Assistentes, Agentes e Engenharia de Prompt.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "IA Assistentes, Agentes e Engenharia de Prompt"
             }
           }
         ]
@@ -94,17 +98,7 @@
         }
       },
       {
-        "id": "6bba85280b0386f9",
-        "type": "leaf",
-        "state": {
-          "type": "mk-path-view",
-          "state": {},
-          "icon": "layout-grid",
-          "title": "Navigator"
-        }
-      },
-      {
-        "id": "246bfaf078b665ac",
+        "id": "b4649c90fff17553",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -114,7 +108,7 @@
         }
       }
     ],
-    "currentTab": 6
+    "currentTab": 5
   },
   "right": {
     "id": "a9da53f8be6fcd20",
@@ -216,6 +210,9 @@
   },
   "active": "452a2fdb98621390",
   "lastOpenFiles": [
+    "raiz/Conhecimento/Intrapessoal/Intrapessoal.md",
+    "raiz/IA Assistentes, Agentes e Engenharia de Prompt.md",
+    "Excalidraw/Drawing 2025-11-25 20.56.37.excalidraw.md",
     "raiz/Conhecimento/Intrapessoal/Daily/03-09-2025.md",
     "raiz/Conhecimento/Intrapessoal/Daily/21-09-2025.md",
     "raiz/Conhecimento/Militar/CEG/DPMA/CPM/Art. 9 CPM.md",
@@ -233,7 +230,6 @@
     "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/NSCA 10-2.md",
     "raiz/Espírito/8 provas que Jesus existiu.md",
-    "raiz/Conhecimento/Intrapessoal/Intrapessoal.md",
     "Tags",
     "raiz/Fitness/Musculação/Treino Full body.md",
     "raiz/Fitness/Musculação/Musculação.md",
@@ -242,8 +238,6 @@
     "raiz/Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)/SIGADAER.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Valor Primário e Valor Secundário.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Teoria das Três Idades no Ciclo Vital Documental.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Processo.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Principais Conceitos Arquivísticos.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER",
     "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER",

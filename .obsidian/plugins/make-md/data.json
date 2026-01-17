@@ -58,10 +58,10 @@
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Intrapessoal",
     "//Anki/Anki/Idiomas/Anki/Idiomas/ingles",
     "//raiz/raiz/Fitness",
-    "//Excalidraw",
     "//raiz/raiz/Conhecimento/raiz/Conhecimento/Intrapessoal/raiz/Conhecimento/Intrapessoal/Daily",
     "//raiz/raiz/Espírito",
-    "//raiz/raiz/Conhecimento/raiz/Conhecimento/Militar"
+    "//raiz/raiz/Conhecimento/raiz/Conhecimento/Militar",
+    "//Excalidraw"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

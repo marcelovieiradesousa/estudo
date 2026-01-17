@@ -11,17 +11,28 @@
             "id": "452a2fdb98621390",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "raiz/IA Assistentes, Agentes e Engenharia de Prompt.md",
-                "mode": "source",
-                "source": false
+                "path": "Excalidraw"
               },
               "icon": "lucide-file",
-              "title": "IA Assistentes, Agentes e Engenharia de Prompt"
+              "title": "Excalidraw"
+            }
+          },
+          {
+            "id": "1b7b70db3ec51062",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-16 18.13.23.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-16 18.13.23.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
         }
       },
       {
-        "id": "b4649c90fff17553",
+        "id": "bbdf1e1ad3a7a844",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -208,10 +219,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "452a2fdb98621390",
+  "active": "1b7b70db3ec51062",
   "lastOpenFiles": [
-    "raiz/Conhecimento/Intrapessoal/Intrapessoal.md",
+    "Excalidraw/Drawing 2026-01-16 18.13.23.excalidraw.md",
+    "Excalidraw/Excalidraw.md",
     "raiz/IA Assistentes, Agentes e Engenharia de Prompt.md",
+    "raiz/Conhecimento/Intrapessoal/Intrapessoal.md",
     "Excalidraw/Drawing 2025-11-25 20.56.37.excalidraw.md",
     "raiz/Conhecimento/Intrapessoal/Daily/03-09-2025.md",
     "raiz/Conhecimento/Intrapessoal/Daily/21-09-2025.md",
@@ -225,7 +238,6 @@
     "raiz/Conhecimento/Militar/CEG/CEG.md",
     "raiz/Conhecimento/Militar/Militar.md",
     "raiz/Conhecimento/Conhecimento.md",
-    "Excalidraw/Excalidraw.md",
     "raiz/raiz.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER/NSCA 10-2.md",
@@ -237,7 +249,6 @@
     "raiz/Espírito/Espírito.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)/SIGADAER.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Valor Primário e Valor Secundário.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Teoria das Três Idades no Ciclo Vital Documental.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER",
     "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER",

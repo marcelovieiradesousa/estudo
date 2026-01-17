@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e72e2c2ed025d862",
+        "id": "971ad05f92f893d1",
         "type": "tabs",
         "children": [
           {
-            "id": "452a2fdb98621390",
+            "id": "0182669f6fae5fdf",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Excalidraw"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Excalidraw"
-            }
-          },
-          {
-            "id": "1b7b70db3ec51062",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-01-16 18.13.23.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-16 18.13.23.excalidraw"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,10 +204,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1b7b70db3ec51062",
+  "active": "0182669f6fae5fdf",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-01-16 18.13.23.excalidraw.md",
     "Excalidraw/Excalidraw.md",
+    "Excalidraw/Drawing 2026-01-16 18.13.23.excalidraw.md",
+    "/Excalidraw/Drawing 2026-01-16 18.13.23.excalidraw.md",
+    "/Excalidraw",
     "raiz/IA Assistentes, Agentes e Engenharia de Prompt.md",
     "raiz/Conhecimento/Intrapessoal/Intrapessoal.md",
     "Excalidraw/Drawing 2025-11-25 20.56.37.excalidraw.md",
@@ -248,7 +235,6 @@
     "raiz/Fitness/Fitness.md",
     "raiz/Espírito/Espírito.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)/SIGADAER.md",
-    "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER/Valor Primário e Valor Secundário.md",
     "raiz/Conhecimento/Militar/CEG/GDOC/Sistema Informatizado de Gestão Arquivística da Aeronáutica (SIGADAER)",
     "raiz/Conhecimento/Militar/CEG/GDOC/Introdução a Gestão Documental no Âmbito do COMAER",
     "raiz/Conhecimento/Militar/CEG/GDOC/Correspondências, atos oficiais e principais documentos utilizados pelo COMAER",
@@ -256,7 +242,6 @@
     "raiz/Conhecimento/Militar/CEG/DPMA/CPPM",
     "raiz/Conhecimento/Militar/CEG/DPMA/CPM",
     "raiz/Conhecimento/Militar/CEG/GDOC",
-    "raiz/Conhecimento/Militar/CEG/DPMA",
-    "raiz/Conhecimento/Militar/CEG"
+    "raiz/Conhecimento/Militar/CEG/DPMA"
   ]
 }

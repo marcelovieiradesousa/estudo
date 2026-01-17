@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9e4859c022850fc8",
+        "id": "055c20a39f4bd64f",
         "type": "tabs",
         "children": [
           {
-            "id": "9b4bd50442482e24",
+            "id": "6067bee38a199da4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "Excalidraw/Drawing 2026-01-16 18.13.23.excalidraw.md"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-16 18.13.23.excalidraw"
             }
           }
         ]
@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "90d753d8edb2de7d",
+            "id": "02675c1559086e40",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "677b387afa306a10",
@@ -203,11 +204,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9b4bd50442482e24",
+  "active": "6067bee38a199da4",
   "lastOpenFiles": [
-    "Tags",
-    "Excalidraw/Drawing 2026-01-16 18.13.23.excalidraw.md",
     "Ink/Ink.md",
+    "Excalidraw/Drawing 2026-01-16 18.13.23.excalidraw.md",
     "Excalidraw/Excalidraw.md",
     "raiz/IA Assistentes, Agentes e Engenharia de Prompt.md",
     "raiz/Conhecimento/Militar/CEG/DPMA/CPM/Sem título.md",
@@ -240,6 +240,7 @@
     "Untitled.base",
     "Excalidraw/Drawing 2025-09-12 18.02.29.excalidraw.md",
     "raiz/Ink/Ink.md",
-    "Excalidraw/Drawing 2025-09-12 18.00.09.excalidraw.md"
+    "Excalidraw/Drawing 2025-09-12 18.00.09.excalidraw.md",
+    "raiz/Excalidraw/Drawing 2025-09-12 17.58.44.excalidraw.md"
   ]
 }

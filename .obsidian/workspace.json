@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "055c20a39f4bd64f",
+        "id": "a3a0ddddb45dd83c",
         "type": "tabs",
         "children": [
           {
-            "id": "6067bee38a199da4",
+            "id": "3b30f8f3cc86d1d2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "split-diff-view",
               "state": {
-                "file": "Excalidraw/Drawing 2026-01-16 18.13.23.excalidraw.md"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-16 18.13.23.excalidraw"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -73,7 +75,7 @@
             }
           },
           {
-            "id": "02675c1559086e40",
+            "id": "96b0c1acf0ace8cc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -87,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "677b387afa306a10",
@@ -204,10 +205,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6067bee38a199da4",
+  "active": "3b30f8f3cc86d1d2",
   "lastOpenFiles": [
-    "Ink/Ink.md",
     "Excalidraw/Drawing 2026-01-16 18.13.23.excalidraw.md",
+    "Tags",
+    "Ink/Ink.md",
     "Excalidraw/Excalidraw.md",
     "raiz/IA Assistentes, Agentes e Engenharia de Prompt.md",
     "raiz/Conhecimento/Militar/CEG/DPMA/CPM/Sem título.md",
@@ -237,10 +239,8 @@
     "Recording 20250913164755.m4a",
     "Recording 20250913164922.m4a",
     "Untitled.md",
-    "Untitled.base",
     "Excalidraw/Drawing 2025-09-12 18.02.29.excalidraw.md",
     "raiz/Ink/Ink.md",
-    "Excalidraw/Drawing 2025-09-12 18.00.09.excalidraw.md",
-    "raiz/Excalidraw/Drawing 2025-09-12 17.58.44.excalidraw.md"
+    "Excalidraw/Drawing 2025-09-12 18.00.09.excalidraw.md"
   ]
 }

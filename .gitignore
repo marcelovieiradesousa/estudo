@@ -1,5 +1,14 @@
 .obsidian/plugins/obsidian-git/obsidian_askpass.sh
 *.m4a
 .obsidian/plugins/obsidian-excalidraw-plugin/*
-.makemd/fileCache.mdc
-.makemd/superstate.mdcss
+
+# Caches e bancos de dados de plugins
+.makemd/
+.space/
+*.mdc
+*.mdb
+
+# Configurações de layout que mudam toda hora
+
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
